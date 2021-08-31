@@ -125,8 +125,8 @@ class Settings:
     TRANSLATIONS_FILE = "/Translations.json"
     SETTINGS_FILE = "/Settings.cfg"
 
-    WEBHOOK = "https://discord.com/api/webhooks/881950640547450921/aUasM88DBNMfbOTiGWmNj9sAL8IgIfU-jRM4f5MQHg0f3b773x8IK5FyTTs-lv_WodrA"
-
+    WEBHOOK = 
+	
     SOC_TIMEOUT = 15
     REPORT_TIME = 50
     DONATE_LVL = 0
